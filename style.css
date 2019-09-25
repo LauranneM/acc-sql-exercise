@@ -1,0 +1,56 @@
+body {
+  color: #242f37;
+  display: flex;
+}
+
+.col-g {
+  height: 100%;
+  width: 400px;
+  background-color: grey;
+}
+
+.col-d {
+  height: 100%;
+  width: 100%;
+}
+
+
+input {
+  width: 90%;
+  font-size: 1.1em;
+  padding: 0.5em;
+  margin: auto;
+  margin-bottom: 0.5em;
+}
+
+select {
+  font-size: 1.1em;
+  width: 95%;
+  margin-bottom: 0.5em;
+}
+
+label {
+  font-size: 1.1em;
+  width: 45%;
+}
+
+.date {
+  width:45%;
+  height: 2em;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #242f37;
+  padding: 0.2em;
+}
+
+th {
+  background-color: #242f37;
+  color: white;
+  padding-left: 1em;
+  padding-right: 1em;
+}
